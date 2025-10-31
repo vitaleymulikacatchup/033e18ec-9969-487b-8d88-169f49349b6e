@@ -6,7 +6,7 @@ const Hero = () => {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/images/school-building.jpg"
+          src="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32m5rRdd38TAyU0DZCqvrl288SF/uploaded-1761910848225-y4j20o2c.jpg"
           alt="Rae Gümnaasium building"
           className="w-full h-full object-cover"
         />
